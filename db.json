@@ -1,15 +1,8 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post1"
-    },
-    {
-      "id": 2,
-      "title": "Post2"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "EP_Propulsion2_HMD8310-RunhourHR(sensor)": 157.32,
+    "BowThruster_HMD8310-RunhourHR(sensor)": 15.28,
+    "EP_Propulsion1_HMD8310-RunhourHR(sensor)": 159.87,
+    "DG1Thing_HMD8310-RunhourHR(sensor)": 278.68,
+    "Time(UTC)": "2022-11-14 08:49:29",
+    "DG2Thing_HMD8310-RunhourHR(sensor)": 268.71
 }
