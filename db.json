@@ -2,11 +2,11 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Post1"
     },
     {
       "id": 2,
-      "title": "hi"
+      "title": "Post2"
     }
   ],
   "profile": {
